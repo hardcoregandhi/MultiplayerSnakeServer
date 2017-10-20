@@ -1,0 +1,4 @@
+﻿  MultiplayerSnake.cpp
+f:\projects\multiplayersnakeserver\multiplayersnake\multiplayersnake.cpp(106): warning C4101: 'client': unreferenced local variable
+f:\projects\multiplayersnakeserver\multiplayersnake\multiplayersnake.cpp(130): warning C4101: 'res': unreferenced local variable
+  MultiplayerSnake.vcxproj -> F:\Projects\MultiplayerSnakeServer\x64\Debug\MultiplayerSnake.exe
